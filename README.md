@@ -12,7 +12,7 @@ API básica para gerenciamento de posts técnicos de um blog de desenvolvedores.
 ## Instalação
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/devblog-api.git
+   git clone https://github.com/soulzuhn/AtividadePratica.git
    cd devblog-api
    
 
